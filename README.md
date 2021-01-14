@@ -1,4 +1,4 @@
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![](https://github.com/GanymedeNil/GanymedeNil/blob/main/image/header_.png)
 ## Hi, I'mGanymedeNil, a Developer 🚀 from China.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/GanymedeNil)
@@ -6,7 +6,7 @@
 [![Twitter URL](https://img.shields.io/badge/-twitter-F5F5F5?style=flat&logo=Twitter)](https://twitter.com/GanymedeNil)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ganymedenil@gmail.com)
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://github.com/GanymedeNil/GanymedeNil/blob/main/image/git-header.svg" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [TAL](https://github.com/tal-tech)
