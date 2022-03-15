@@ -9,7 +9,7 @@
 <img width="55%" align="right" alt="Github" src="https://github.com/GanymedeNil/GanymedeNil/blob/main/image/git-header.svg" />
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [TAL](https://github.com/tal-tech)
+- 🔭 I'm looking for like-minded friends to work with
 - 🌱 I’m currently learning Microservices and Serverless
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: ganymedenil@gmail.com
