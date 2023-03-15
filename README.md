@@ -14,7 +14,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I'm looking for like-minded friends to work with
-- 🌱 I’m currently learning Microservices and Serverless
+- 🌱 I’m currently learning AIGC
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: ganymedenil@gmail.com
 
